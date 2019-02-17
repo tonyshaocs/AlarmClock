@@ -1,0 +1,14 @@
+D:\Visual Basic\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe.config
+D:\Visual Basic\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+D:\Visual Basic\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+D:\Visual Basic\AlarmClock\AlarmClock\bin\Debug\AlarmClock.xml
+D:\Visual Basic\AlarmClock\AlarmClock\obj\Debug\AlarmClock.AlarmPanel.resources
+D:\Visual Basic\AlarmClock\AlarmClock\obj\Debug\AlarmClock.MainForm.resources
+D:\Visual Basic\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Resources.resources
+D:\Visual Basic\AlarmClock\AlarmClock\obj\Debug\AlarmClock.TimePanel.resources
+D:\Visual Basic\AlarmClock\AlarmClock\obj\Debug\AlarmClock.vbproj.GenerateResource.Cache
+D:\Visual Basic\AlarmClock\AlarmClock\obj\Debug\AlarmClock.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+D:\Visual Basic\AlarmClock\AlarmClock\obj\Debug\AlarmClock.xml
+D:\Visual Basic\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
+D:\Visual Basic\AlarmClock\AlarmClock\obj\Debug\AlarmClock.vbprojResolveAssemblyReference.cache
