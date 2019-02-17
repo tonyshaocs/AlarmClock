@@ -1,2 +1,2 @@
 # AlarmClock
-An Alarm build in Visual Basic.
+An Alarm clock built in Visual Basic.
