@@ -8,7 +8,7 @@ In this panel, the time can be set using the keypad, or reset to its default tim
 Each alarm can be set with a different time and comes with a different sound and animation to play once the time is met. 
 Each alarm must be activated first to go off. 
 Each alarm goes off at the specified time.
-<br/>
+<br/><br/>
 
 ![alt text](https://github.com/tonyshaocs/AlarmClock/blob/master/ex2.png)
 
